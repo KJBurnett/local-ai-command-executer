@@ -2,8 +2,11 @@
 
 Utilize an ultra-cheap local LLM to execute your own PowerShell functions using natural language requests. This script acts as a "function dispatcher," sending your plain-English commands to a local AI model, which then selects the appropriate PowerShell function to run from a list it automatically discovers in your profile.
 
-![Demo GIF showing the tool in action](https://i.imgur.com/your-demo.gif) 
-*(Note: You can create a GIF like this to show a quick demo)*
+![image](https://github.com/user-attachments/assets/9e193960-4d56-4833-b7bd-89c60c9a9cc5)
+
+![image](https://github.com/user-attachments/assets/dfd1e055-ef77-4087-a9f9-34898d5fe8f4)
+
+
 
 ## Features
 
